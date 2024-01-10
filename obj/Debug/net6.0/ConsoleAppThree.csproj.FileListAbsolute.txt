@@ -1,0 +1,14 @@
+F:\mphasis\phase-4\day4\ConsoleAppThree\ConsoleAppThree\bin\Debug\net6.0\ConsoleAppThree.exe
+F:\mphasis\phase-4\day4\ConsoleAppThree\ConsoleAppThree\bin\Debug\net6.0\ConsoleAppThree.deps.json
+F:\mphasis\phase-4\day4\ConsoleAppThree\ConsoleAppThree\bin\Debug\net6.0\ConsoleAppThree.runtimeconfig.json
+F:\mphasis\phase-4\day4\ConsoleAppThree\ConsoleAppThree\bin\Debug\net6.0\ConsoleAppThree.dll
+F:\mphasis\phase-4\day4\ConsoleAppThree\ConsoleAppThree\bin\Debug\net6.0\ConsoleAppThree.pdb
+F:\mphasis\phase-4\day4\ConsoleAppThree\ConsoleAppThree\obj\Debug\net6.0\ConsoleAppThree.GeneratedMSBuildEditorConfig.editorconfig
+F:\mphasis\phase-4\day4\ConsoleAppThree\ConsoleAppThree\obj\Debug\net6.0\ConsoleAppThree.AssemblyInfoInputs.cache
+F:\mphasis\phase-4\day4\ConsoleAppThree\ConsoleAppThree\obj\Debug\net6.0\ConsoleAppThree.AssemblyInfo.cs
+F:\mphasis\phase-4\day4\ConsoleAppThree\ConsoleAppThree\obj\Debug\net6.0\ConsoleAppThree.csproj.CoreCompileInputs.cache
+F:\mphasis\phase-4\day4\ConsoleAppThree\ConsoleAppThree\obj\Debug\net6.0\ConsoleAppThree.dll
+F:\mphasis\phase-4\day4\ConsoleAppThree\ConsoleAppThree\obj\Debug\net6.0\refint\ConsoleAppThree.dll
+F:\mphasis\phase-4\day4\ConsoleAppThree\ConsoleAppThree\obj\Debug\net6.0\ConsoleAppThree.pdb
+F:\mphasis\phase-4\day4\ConsoleAppThree\ConsoleAppThree\obj\Debug\net6.0\ConsoleAppThree.genruntimeconfig.cache
+F:\mphasis\phase-4\day4\ConsoleAppThree\ConsoleAppThree\obj\Debug\net6.0\ref\ConsoleAppThree.dll
